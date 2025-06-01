@@ -1,0 +1,31 @@
+2025-05-31 16:14:48,499 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:14:48,499 - root - INFO - 时间戳: 20250531_161448
+2025-05-31 16:14:48,499 - root - INFO - 调试模式: 关闭
+2025-05-31 16:14:48,499 - __main__ - INFO - 正在加载配置文件...
+2025-05-31 16:14:48,500 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-31 16:14:48,502 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:14:48,502 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:14:48,502 - root - INFO - 时间戳: 20250531_161448
+2025-05-31 16:14:48,502 - root - INFO - 时间戳: 20250531_161448
+2025-05-31 16:14:48,503 - root - INFO - 调试模式: 关闭
+2025-05-31 16:14:48,503 - root - INFO - 调试模式: 关闭
+2025-05-31 16:14:48,504 - __main__ - INFO - 游戏开始...
+2025-05-31 16:14:48,504 - __main__ - INFO - 游戏开始...
+2025-05-31 16:15:06,125 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:06,125 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:15,519 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:15,519 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:29,061 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:29,061 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:31,625 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:31,625 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:31,626 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-31 16:15:31,626 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-31 16:15:31,626 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 16:15:31,626 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 16:15:44,310 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:44,310 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:58,940 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:15:58,940 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:16:04,986 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:16:04,986 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"

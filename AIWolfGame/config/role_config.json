@@ -1,0 +1,103 @@
+{
+  "game_settings": {
+    "total_players": 8,
+    "day_time_limit": 180,
+    "night_time_limit": 60,
+    "role_rotation_interval": 20
+  },
+  "roles": {
+    "werewolf": {
+      "player1": {
+        "name": "张大胆",
+        "ai_type": "deepseek-v3",
+        "personality": "狡猾"
+      },
+      "player2": {
+        "name": "李勇",
+        "ai_type": "deepseek-v3",
+        "personality": "激进"
+      }
+    },
+    "seer": {
+      "player3": {
+        "name": "王智",
+        "ai_type": "deepseek-v3",
+        "personality": "冷静"
+      }
+    },
+    "witch": {
+      "player4": {
+        "name": "赵灵",
+        "ai_type": "deepseek-v3",
+        "personality": "谨慎"
+      }
+    },
+    "hunter": {
+      "player5": {
+        "name": "钱强",
+        "ai_type": "deepseek-v3",
+        "personality": "果断"
+      }
+    },
+    "guard": {
+      "player6": {
+        "name": "孙一",
+        "ai_type": "deepseek-v3",
+        "personality": "谨慎"
+      }
+    },
+    "villager": {
+      "player7": {
+        "name": "周二",
+        "ai_type": "deepseek-v3",
+        "personality": "积极"
+      },
+      "player8": {
+        "name": "吴三",
+        "ai_type": "deepseek-v3",
+        "personality": "多疑"
+      }
+    }
+  },
+  "multi_round_assignments": [
+    {
+      "round": 1,
+      "assignments": {
+        "player1": "deepseek-v3",
+        "player2": "deepseek-v3",
+        "player3": "doubao-1-5-pro",
+        "player4": "deepseek-v3",
+        "player5": "doubao-1-5-pro",
+        "player6": "deepseek-v3",
+        "player7": "doubao-1-5-thinking",
+        "player8": "doubao-1-5-thinking"
+      }
+    },
+    {
+      "round": 2,
+      "assignments": {
+        "player1": "deepseek-v3",
+        "player2": "doubao-1-5-pro",
+        "player3": "deepseek-v3",
+        "player4": "doubao-1-5-pro",
+        "player5": "deepseek-v3",
+        "player6": "doubao-1-5-thinking",
+        "player7": "doubao-1-5-thinking",
+        "player8": "deepseek-v3"
+      }
+    },
+    {
+      "round": 3,
+      "assignments": {
+        "player1": "doubao-1-5-pro",
+        "player2": "deepseek-v3",
+        "player3": "doubao-1-5-pro",
+        "player4": "deepseek-v3",
+        "player5": "doubao-1-5-thinking",
+        "player6": "doubao-1-5-thinking",
+        "player7": "deepseek-v3",
+        "player8": "deepseek-v3"
+      }
+    }
+  ]
+} 

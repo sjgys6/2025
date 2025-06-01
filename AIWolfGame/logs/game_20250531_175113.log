@@ -1,0 +1,57 @@
+2025-05-31 17:51:13,868 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:51:13,868 - root - INFO - 时间戳: 20250531_175113
+2025-05-31 17:51:13,869 - root - INFO - 调试模式: 关闭
+2025-05-31 17:51:13,869 - __main__ - INFO - 正在加载配置文件...
+2025-05-31 17:51:13,870 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-31 17:51:13,872 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:51:13,872 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:51:13,873 - root - INFO - 时间戳: 20250531_175113
+2025-05-31 17:51:13,873 - root - INFO - 时间戳: 20250531_175113
+2025-05-31 17:51:13,874 - root - INFO - 调试模式: 关闭
+2025-05-31 17:51:13,874 - root - INFO - 调试模式: 关闭
+2025-05-31 17:51:13,876 - __main__ - INFO - 游戏开始...
+2025-05-31 17:51:13,876 - __main__ - INFO - 游戏开始...
+2025-05-31 17:51:25,883 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:25,883 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:25,886 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:25,886 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:34,666 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:34,666 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:34,667 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:34,667 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:42,684 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:42,684 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:42,686 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:42,686 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:46,809 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:46,809 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:46,811 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:46,811 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:46,812 - game.roles - INFO - 预言家查验了玩家 player6，结果是好人
+2025-05-31 17:51:46,812 - game.roles - INFO - 预言家查验了玩家 player6，结果是好人
+2025-05-31 17:51:46,812 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 17:51:46,812 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 17:51:55,281 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:55,281 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:51:55,282 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:51:55,282 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:03,115 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:03,115 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:03,116 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:03,116 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:10,844 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:10,844 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:10,846 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:10,846 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:20,858 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:20,858 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:20,859 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:20,859 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:29,377 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:29,377 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:29,378 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:29,378 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:37,566 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:37,566 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:52:37,567 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined
+2025-05-31 17:52:37,567 - game.ai_players - ERROR - AI 调用失败: name 'response' is not defined

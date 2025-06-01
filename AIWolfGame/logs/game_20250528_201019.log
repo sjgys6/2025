@@ -1,0 +1,439 @@
+2025-05-28 20:10:19,064 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:10:19,065 - root - INFO - 时间戳: 20250528_201019
+2025-05-28 20:10:19,066 - root - INFO - 调试模式: 关闭
+2025-05-28 20:10:19,066 - __main__ - INFO - 正在加载配置文件...
+2025-05-28 20:10:19,068 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-28 20:10:19,069 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:10:19,069 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:10:19,070 - root - INFO - 时间戳: 20250528_201019
+2025-05-28 20:10:19,070 - root - INFO - 时间戳: 20250528_201019
+2025-05-28 20:10:19,071 - root - INFO - 调试模式: 关闭
+2025-05-28 20:10:19,071 - root - INFO - 调试模式: 关闭
+2025-05-28 20:10:19,073 - __main__ - INFO - 游戏开始...
+2025-05-28 20:10:19,073 - __main__ - INFO - 游戏开始...
+2025-05-28 20:10:35,380 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:35,380 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:42,377 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:42,377 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:46,229 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:46,229 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:46,231 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-28 20:10:46,231 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-28 20:10:46,232 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:10:46,232 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:10:57,300 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:10:57,300 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:07,334 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:07,334 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:18,269 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:18,269 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:32,486 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:32,486 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:44,380 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:11:44,380 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:12:01,332 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:12:01,332 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:12:37,676 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:12:37,676 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:18,415 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:18,415 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:29,176 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:29,176 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:42,876 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:42,876 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:53,815 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:13:53,815 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:11,749 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:11,749 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:24,938 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:24,938 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:39,529 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:14:39,529 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:15:21,152 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:15:21,152 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:15:58,170 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:15:58,170 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:15:58,694 - root - INFO - 
+=== 第 1 回合讨论记录 ===
+2025-05-28 20:15:58,694 - root - INFO - 
+=== 第 1 回合讨论记录 ===
+2025-05-28 20:15:58,696 - root - INFO - 张大胆: 【缓缓站起身，双手撑在桌面上，目光凝重地扫视全场】各位，我仔细听了大家的发言，有些想法想分享一下。【右手无意识地摩挲着下巴，眉头微皱】王智确实一直在观察，但我觉得这种谨慎的态度反而像是好人的表现。【突然转向钱强，眼神锐利】倒是钱强一直在活跃气氛，【左手轻轻敲击桌面】这种过度热情的表现让我有点在意。【突然停顿，若有所思地低头】赵灵虽然话不多，但每次发言都很精准，【抬起头环视众人】这种冷静的分析能力值得信任。【突然提高音量】至于孙一，【右手食指轻轻点着太阳穴】总是附和别人的观点，这种随波逐流的行为反而更可疑。【坐回椅子上，双手交叉】我觉得我们应该多关注那些表现反常的人，而不是针对认真分析局势的玩家。【眼神突然变得坚定】毕竟，狼人最喜欢藏在看似无害的表象之下。
+2025-05-28 20:15:58,696 - root - INFO - 张大胆: 【缓缓站起身，双手撑在桌面上，目光凝重地扫视全场】各位，我仔细听了大家的发言，有些想法想分享一下。【右手无意识地摩挲着下巴，眉头微皱】王智确实一直在观察，但我觉得这种谨慎的态度反而像是好人的表现。【突然转向钱强，眼神锐利】倒是钱强一直在活跃气氛，【左手轻轻敲击桌面】这种过度热情的表现让我有点在意。【突然停顿，若有所思地低头】赵灵虽然话不多，但每次发言都很精准，【抬起头环视众人】这种冷静的分析能力值得信任。【突然提高音量】至于孙一，【右手食指轻轻点着太阳穴】总是附和别人的观点，这种随波逐流的行为反而更可疑。【坐回椅子上，双手交叉】我觉得我们应该多关注那些表现反常的人，而不是针对认真分析局势的玩家。【眼神突然变得坚定】毕竟，狼人最喜欢藏在看似无害的表象之下。
+2025-05-28 20:15:58,701 - root - INFO - 李勇: 【缓缓站起身，双手撑在桌面上】我觉得现在局势还不太明朗，【目光在众人脸上游移】不过有几个人的表现确实值得注意。【突然指向王智】他刚才的发言有点刻意，【手指轻轻敲击桌面】好像在刻意引导大家怀疑某个方向。【皱眉思考】而且他观察别人的方式...【突然压低声音】让我觉得不太舒服。【放松地靠在椅背上】相比之下，【转头看向赵灵】赵灵的表现就比较自然，【耸耸肩】虽然她看起来心不在焉，但反而显得更可信。【突然坐直身体】至于张大胆...【嘴角微微上扬】他的发言虽然直接，但反而让我觉得比较坦荡。【手指无意识地敲击桌面】我觉得我们应该更关注那些试图带节奏的人。【环视全场】毕竟第一晚，信息太少，【握紧拳头】贸然下结论可能会被坏人利用。【眼神突然变得锐利】建议大家多观察，少说话，【缓缓坐下】等明天有了更多线索再判断。
+2025-05-28 20:15:58,701 - root - INFO - 李勇: 【缓缓站起身，双手撑在桌面上】我觉得现在局势还不太明朗，【目光在众人脸上游移】不过有几个人的表现确实值得注意。【突然指向王智】他刚才的发言有点刻意，【手指轻轻敲击桌面】好像在刻意引导大家怀疑某个方向。【皱眉思考】而且他观察别人的方式...【突然压低声音】让我觉得不太舒服。【放松地靠在椅背上】相比之下，【转头看向赵灵】赵灵的表现就比较自然，【耸耸肩】虽然她看起来心不在焉，但反而显得更可信。【突然坐直身体】至于张大胆...【嘴角微微上扬】他的发言虽然直接，但反而让我觉得比较坦荡。【手指无意识地敲击桌面】我觉得我们应该更关注那些试图带节奏的人。【环视全场】毕竟第一晚，信息太少，【握紧拳头】贸然下结论可能会被坏人利用。【眼神突然变得锐利】建议大家多观察，少说话，【缓缓坐下】等明天有了更多线索再判断。
+2025-05-28 20:15:58,704 - root - INFO - 王智: 各位，听我说【双手用力拍了下桌子，身体前倾，目光严肃地扫视一圈众人】。作为seer，我这第一回合就查验了张大胆，结果令人震惊，他是狼人。目前咱们才第一回合，其他人还没发言，暂时难以从行为和发言去判断。但可以肯定，狼人阵营肯定会想办法隐藏身份，误导大家。我觉得接下来大家发言都得坦诚点，别藏着掖着【眉头紧皱，表情凝重】。现在局势对好人不算乐观，狼人在暗，我们在明，不过只要大家信任我，跟紧我的指引，我们好人阵营齐心协力，还是有很大机会揪出其他狼人的【坚定地握拳，眼神充满斗志】。咱们得抓住每一个细节，分析每个人的话语和表现，绝不能让狼人有机可乘。 
+2025-05-28 20:15:58,704 - root - INFO - 王智: 各位，听我说【双手用力拍了下桌子，身体前倾，目光严肃地扫视一圈众人】。作为seer，我这第一回合就查验了张大胆，结果令人震惊，他是狼人。目前咱们才第一回合，其他人还没发言，暂时难以从行为和发言去判断。但可以肯定，狼人阵营肯定会想办法隐藏身份，误导大家。我觉得接下来大家发言都得坦诚点，别藏着掖着【眉头紧皱，表情凝重】。现在局势对好人不算乐观，狼人在暗，我们在明，不过只要大家信任我，跟紧我的指引，我们好人阵营齐心协力，还是有很大机会揪出其他狼人的【坚定地握拳，眼神充满斗志】。咱们得抓住每一个细节，分析每个人的话语和表现，绝不能让狼人有机可乘。 
+2025-05-28 20:15:58,705 - root - INFO - 赵灵: 【轻轻摩挲着手中的药瓶，眼神若有所思地望向王智】王智的发言确实很有说服力，但作为女巫，我必须保持冷静【深吸一口气，手指无意识地敲击着桌面】。他声称自己是预言家并查杀了张大胆，但第一轮就如此笃定地指认，未免有些操之过急【微微皱眉，目光在众人之间游移】。
+
+【将药瓶缓缓放回口袋，身体略微前倾】我注意到王智在发言时表现得过于激动，这种强烈的情绪反而让我产生怀疑【手指轻点太阳穴，陷入思考】。真正的预言家通常会更谨慎，毕竟狼人可能会伪装成预言家混淆视听。而且他要求大家完全信任他，这种绝对化的要求也值得警惕【抿了抿嘴唇，眼神变得锐利】。
+
+【双手交叉置于桌前，语气转为严肃】目前局势尚不明朗，我建议其他玩家也发表看法。特别是张大胆，作为被指认的对象，应该给予辩解的机会【目光转向张大胆的方向】。作为女巫，我会继续观察，不会轻易使用解药或毒药【手指轻轻抚过药瓶，神情坚定】。
+
+【环视众人，声音放低】记住，狼人最擅长伪装和煽动，我们必须保持理性分析【指尖有节奏地敲击桌面】。我暂时保留对王智身份的质疑，期待更多信息来佐证他的说法【微微颔首，露出若有所思的表情】。
+2025-05-28 20:15:58,705 - root - INFO - 赵灵: 【轻轻摩挲着手中的药瓶，眼神若有所思地望向王智】王智的发言确实很有说服力，但作为女巫，我必须保持冷静【深吸一口气，手指无意识地敲击着桌面】。他声称自己是预言家并查杀了张大胆，但第一轮就如此笃定地指认，未免有些操之过急【微微皱眉，目光在众人之间游移】。
+
+【将药瓶缓缓放回口袋，身体略微前倾】我注意到王智在发言时表现得过于激动，这种强烈的情绪反而让我产生怀疑【手指轻点太阳穴，陷入思考】。真正的预言家通常会更谨慎，毕竟狼人可能会伪装成预言家混淆视听。而且他要求大家完全信任他，这种绝对化的要求也值得警惕【抿了抿嘴唇，眼神变得锐利】。
+
+【双手交叉置于桌前，语气转为严肃】目前局势尚不明朗，我建议其他玩家也发表看法。特别是张大胆，作为被指认的对象，应该给予辩解的机会【目光转向张大胆的方向】。作为女巫，我会继续观察，不会轻易使用解药或毒药【手指轻轻抚过药瓶，神情坚定】。
+
+【环视众人，声音放低】记住，狼人最擅长伪装和煽动，我们必须保持理性分析【指尖有节奏地敲击桌面】。我暂时保留对王智身份的质疑，期待更多信息来佐证他的说法【微微颔首，露出若有所思的表情】。
+2025-05-28 20:15:58,708 - root - INFO - 钱强: 我觉得王智和赵灵的发言都值得仔细琢磨。【双手抱胸，微微眯起眼睛，视线在王智和赵灵之间来回移动】王智以预言家身份查杀张大胆，发言确实激昂且有煽动性，就像赵灵说的，真正预言家或许会更沉稳。而赵灵呢，作为女巫，她对王智的质疑看似合理，但又似乎过于冷静，好像在刻意引导大家也怀疑王智【摩挲着下巴，眉头微皱】。目前这局势，很有可能有狼人在浑水摸鱼。如果王智是真预言家，那他查杀的张大胆大概率是狼；要是王智是狼伪装的，那他就是想先除掉好人阵营里的一个。我建议张大胆赶紧好好辩解下，我们其他人也都从他俩发言的细节深入分析，千万别被狼人误导，我作为猎人，也会时刻警惕，一旦发现狼人，绝不留情【眼神坚定，用力地攥紧拳头】。 
+2025-05-28 20:15:58,708 - root - INFO - 钱强: 我觉得王智和赵灵的发言都值得仔细琢磨。【双手抱胸，微微眯起眼睛，视线在王智和赵灵之间来回移动】王智以预言家身份查杀张大胆，发言确实激昂且有煽动性，就像赵灵说的，真正预言家或许会更沉稳。而赵灵呢，作为女巫，她对王智的质疑看似合理，但又似乎过于冷静，好像在刻意引导大家也怀疑王智【摩挲着下巴，眉头微皱】。目前这局势，很有可能有狼人在浑水摸鱼。如果王智是真预言家，那他查杀的张大胆大概率是狼；要是王智是狼伪装的，那他就是想先除掉好人阵营里的一个。我建议张大胆赶紧好好辩解下，我们其他人也都从他俩发言的细节深入分析，千万别被狼人误导，我作为猎人，也会时刻警惕，一旦发现狼人，绝不留情【眼神坚定，用力地攥紧拳头】。 
+2025-05-28 20:15:58,712 - root - INFO - 孙一: 【缓缓站起身，双手撑在桌面上，目光凝重地环视众人】各位，听完王智、赵灵和钱强的发言，我觉得局势确实扑朔迷离【手指无意识地敲击着桌面，眉头紧锁】。王智自称预言家查杀了张大胆，但他的表现确实有些反常【托着下巴沉思】。通常预言家第一轮会更谨慎，而他却表现得过于激动，甚至有些咄咄逼人【模仿王智拍桌子的动作，摇了摇头】。
+
+【身体微微前倾，眼神在赵灵和钱强之间来回扫视】赵灵作为女巫的质疑很有道理，但她全程都太过冷静了【手指轻轻点着太阳穴】。这种超乎寻常的理性反而让我觉得可疑，就像钱强说的，她会不会是在刻意引导风向？【突然坐直身体，声音提高】而钱强自称猎人，这个身份声明来得太突然了【双手交叉抱胸，露出怀疑的神色】。
+
+【深吸一口气，站起身来踱步】我觉得现在最重要的是让张大胆发言【停下脚步，指向张大胆的座位】。作为被指控的对象，他必须给出合理解释【手指重重敲在桌面上】。同时我建议其他还没发言的玩家都说说看法，特别是李勇和周二，你们一直沉默很可疑【眯起眼睛扫视两人】。
+
+【回到座位，双手交叠放在桌上】作为普通村民，我会继续观察每个人的微表情和小动作【身体微微前倾，目光锐利】。狼人往往会因为紧张而露出破绽，比如不自然的肢体语言或前后矛盾的发言【手指有节奏地敲击桌面】。我暂时不会轻易相信任何人的身份声明，毕竟狼人最擅长的就是伪装【突然拍桌站起】。大家一定要保持警惕，但也不要被情绪左右，我们好人阵营必须团结！【拳头重重砸在掌心】
+2025-05-28 20:15:58,712 - root - INFO - 孙一: 【缓缓站起身，双手撑在桌面上，目光凝重地环视众人】各位，听完王智、赵灵和钱强的发言，我觉得局势确实扑朔迷离【手指无意识地敲击着桌面，眉头紧锁】。王智自称预言家查杀了张大胆，但他的表现确实有些反常【托着下巴沉思】。通常预言家第一轮会更谨慎，而他却表现得过于激动，甚至有些咄咄逼人【模仿王智拍桌子的动作，摇了摇头】。
+
+【身体微微前倾，眼神在赵灵和钱强之间来回扫视】赵灵作为女巫的质疑很有道理，但她全程都太过冷静了【手指轻轻点着太阳穴】。这种超乎寻常的理性反而让我觉得可疑，就像钱强说的，她会不会是在刻意引导风向？【突然坐直身体，声音提高】而钱强自称猎人，这个身份声明来得太突然了【双手交叉抱胸，露出怀疑的神色】。
+
+【深吸一口气，站起身来踱步】我觉得现在最重要的是让张大胆发言【停下脚步，指向张大胆的座位】。作为被指控的对象，他必须给出合理解释【手指重重敲在桌面上】。同时我建议其他还没发言的玩家都说说看法，特别是李勇和周二，你们一直沉默很可疑【眯起眼睛扫视两人】。
+
+【回到座位，双手交叠放在桌上】作为普通村民，我会继续观察每个人的微表情和小动作【身体微微前倾，目光锐利】。狼人往往会因为紧张而露出破绽，比如不自然的肢体语言或前后矛盾的发言【手指有节奏地敲击桌面】。我暂时不会轻易相信任何人的身份声明，毕竟狼人最擅长的就是伪装【突然拍桌站起】。大家一定要保持警惕，但也不要被情绪左右，我们好人阵营必须团结！【拳头重重砸在掌心】
+2025-05-28 20:15:58,716 - root - INFO - 周二: 
+
+【手指轻轻叩着面前的木桌，目光逐一扫过王智、赵灵和钱强，唇角微微抿起，眉心因思考而轻皱】各位，我作为普通村民，现在得把听到的信息理清楚。首先看王智的发言——他拍桌断言自己是预言家，查杀张大胆，情绪确实很激昂【指尖停顿在桌沿，视线转向王智，眼神里带着审视】。但预言家第一晚报验人信息本就是职责所在，只是赵灵提到“过于激动反而可疑”这点，我觉得得再想想：真预言家急着带节奏、让好人信任自己，会不会也会表现得急切？毕竟狼人伪装预言家时，可能反而会刻意冷静，所以情绪激烈未必是狼的铁证【身体微微后仰，拇指抵着下巴摩挲，陷入短暂沉思】。  
+
+再看赵灵作为女巫的质疑【转头看向赵灵，目光温和却认真】。她反复强调“保持理性”，还提醒大家狼人擅长伪装，这些话本身没问题，但她对王智的怀疑是否有更深的动机？比如——如果王智是真预言家，女巫此时应该配合他的信息；如果王智是狼，女巫质疑他是在保护真预言家。可现在还没人跳其他预言家，赵灵的“保留质疑”更像在观望，这倒也符合女巫谨慎用药的身份，暂时不算大问题【手指无意识地卷着衣角，表情逐渐放松】。  
+
+钱强作为猎人，分析得比较全面，但“王智和赵灵都可能浑水摸鱼”的说法让我有点在意【挑眉看向钱强，嘴角扯出一丝若有若无的笑意】。猎人通常需要明确站边，避免被狼利用，他现在两边都点但不站队，或许是在等更多信息？不过这也正常，毕竟第一轮信息太少。  
+
+最关键的还是张大胆——被查杀的玩家到现在还没发言【突然坐直身体，目光灼灼地转向张大胆的方向，双手撑在桌上】！如果王智是真预言家，张大胆必须给出有力的反驳，比如质疑王智的身份、提出自己的好人逻辑；如果王智是狼，张大胆作为好人更该急着自证。要是张大胆支支吾吾、回避问题，那他狼面就大了；要是他能有理有据地反击王智，那王智的预言家身份就存疑了【喉咙轻咳一声，手指点了点桌面，语气加重】。  
+
+目前局势确实混沌，狼人可能藏在任何位置。我建议大家先听张大胆辩解，再结合他的反应重新判断王智的真假【深吸一口气，双手交叠放在膝头，表情变得坚定】。作为村民，我会保持警惕，不轻易跟票，也希望大家别被情绪带偏——狼人最爱用激烈的发言或过度的冷静来迷惑我们，咱们得抓住逻辑漏洞，慢慢来，总能揪出狼的【目光扫过全场，唇角扬起一丝自信的笑】。
+2025-05-28 20:15:58,716 - root - INFO - 周二: 
+
+【手指轻轻叩着面前的木桌，目光逐一扫过王智、赵灵和钱强，唇角微微抿起，眉心因思考而轻皱】各位，我作为普通村民，现在得把听到的信息理清楚。首先看王智的发言——他拍桌断言自己是预言家，查杀张大胆，情绪确实很激昂【指尖停顿在桌沿，视线转向王智，眼神里带着审视】。但预言家第一晚报验人信息本就是职责所在，只是赵灵提到“过于激动反而可疑”这点，我觉得得再想想：真预言家急着带节奏、让好人信任自己，会不会也会表现得急切？毕竟狼人伪装预言家时，可能反而会刻意冷静，所以情绪激烈未必是狼的铁证【身体微微后仰，拇指抵着下巴摩挲，陷入短暂沉思】。  
+
+再看赵灵作为女巫的质疑【转头看向赵灵，目光温和却认真】。她反复强调“保持理性”，还提醒大家狼人擅长伪装，这些话本身没问题，但她对王智的怀疑是否有更深的动机？比如——如果王智是真预言家，女巫此时应该配合他的信息；如果王智是狼，女巫质疑他是在保护真预言家。可现在还没人跳其他预言家，赵灵的“保留质疑”更像在观望，这倒也符合女巫谨慎用药的身份，暂时不算大问题【手指无意识地卷着衣角，表情逐渐放松】。  
+
+钱强作为猎人，分析得比较全面，但“王智和赵灵都可能浑水摸鱼”的说法让我有点在意【挑眉看向钱强，嘴角扯出一丝若有若无的笑意】。猎人通常需要明确站边，避免被狼利用，他现在两边都点但不站队，或许是在等更多信息？不过这也正常，毕竟第一轮信息太少。  
+
+最关键的还是张大胆——被查杀的玩家到现在还没发言【突然坐直身体，目光灼灼地转向张大胆的方向，双手撑在桌上】！如果王智是真预言家，张大胆必须给出有力的反驳，比如质疑王智的身份、提出自己的好人逻辑；如果王智是狼，张大胆作为好人更该急着自证。要是张大胆支支吾吾、回避问题，那他狼面就大了；要是他能有理有据地反击王智，那王智的预言家身份就存疑了【喉咙轻咳一声，手指点了点桌面，语气加重】。  
+
+目前局势确实混沌，狼人可能藏在任何位置。我建议大家先听张大胆辩解，再结合他的反应重新判断王智的真假【深吸一口气，双手交叠放在膝头，表情变得坚定】。作为村民，我会保持警惕，不轻易跟票，也希望大家别被情绪带偏——狼人最爱用激烈的发言或过度的冷静来迷惑我们，咱们得抓住逻辑漏洞，慢慢来，总能揪出狼的【目光扫过全场，唇角扬起一丝自信的笑】。
+2025-05-28 20:15:58,723 - root - INFO - 吴三: 
+
+【手指无意识地挠了挠后脑勺，目光先扫过王智，又转向赵灵，最后落在钱强身上，嘴角微微抿起】各位，我这普通村民也来说两句。首先得理一理目前的信息——王智跳预言家查杀张大胆，赵灵以女巫身份质疑王智的急切，钱强则在中间分析两人可能的立场。我先盯着王智的发言看【右手托着下巴，拇指摩挲着嘴角，眉头微微皱起】，他拍桌子、握拳这些动作确实有煽动性，但预言家第一晚验人后急着报验人信息也算合理，可问题在于他反复强调“必须信任我”，这种绝对化的表述反而像狼人在争取话语权——真预言家通常会摆事实，而不是用情绪绑架大家。  
+
+再看赵灵【身体微微前倾，双手交叠放在桌沿，眼神认真地扫视众人】，她作为女巫，提到“真正预言家更谨慎”这点我认同，但她的质疑又太冷静了些。女巫第一晚如果没用药，确实该保持观察，但她反复用“可能”“值得警惕”这种模糊词汇，倒像是在给狼人留空间——万一王智是真预，她这么带节奏岂不是帮狼？不过也可能她只是稳妥，毕竟女巫药很关键，不能随便信。  
+
+钱强作为猎人，说的“狼人可能浑水摸鱼”我赞成【指尖轻轻敲了敲桌面，眼神突然锐利起来】，但猎人这身份现在跳得太早了吧？正常猎人不会急着表明身份，除非想挡刀，可第一轮没必要。他分析王智和赵灵时，语气太中立，反而像在两边试探，有点像狼在找神位的感觉。  
+
+现在最关键的是张大胆还没发言【脖子微微伸长，望向张大胆的方向，眼神带着期待】，被查杀的人如果是好人，肯定会急着自证，比如盘逻辑、质疑王智的验人动机；要是狼人，可能会慌乱或者转移话题。我建议等张大胆说完再做判断，别急着投票。咱们村民没信息，得抓住每个发言的细节——王智的情绪、赵灵的冷静、钱强的“中立”，还有张大胆的反应，都是线索【深吸一口气，挺直腰板，双手撑在桌上，语气坚定】。狼人再会演，总会有漏洞，咱们慢慢盘，别被带节奏！
+2025-05-28 20:15:58,723 - root - INFO - 吴三: 
+
+【手指无意识地挠了挠后脑勺，目光先扫过王智，又转向赵灵，最后落在钱强身上，嘴角微微抿起】各位，我这普通村民也来说两句。首先得理一理目前的信息——王智跳预言家查杀张大胆，赵灵以女巫身份质疑王智的急切，钱强则在中间分析两人可能的立场。我先盯着王智的发言看【右手托着下巴，拇指摩挲着嘴角，眉头微微皱起】，他拍桌子、握拳这些动作确实有煽动性，但预言家第一晚验人后急着报验人信息也算合理，可问题在于他反复强调“必须信任我”，这种绝对化的表述反而像狼人在争取话语权——真预言家通常会摆事实，而不是用情绪绑架大家。  
+
+再看赵灵【身体微微前倾，双手交叠放在桌沿，眼神认真地扫视众人】，她作为女巫，提到“真正预言家更谨慎”这点我认同，但她的质疑又太冷静了些。女巫第一晚如果没用药，确实该保持观察，但她反复用“可能”“值得警惕”这种模糊词汇，倒像是在给狼人留空间——万一王智是真预，她这么带节奏岂不是帮狼？不过也可能她只是稳妥，毕竟女巫药很关键，不能随便信。  
+
+钱强作为猎人，说的“狼人可能浑水摸鱼”我赞成【指尖轻轻敲了敲桌面，眼神突然锐利起来】，但猎人这身份现在跳得太早了吧？正常猎人不会急着表明身份，除非想挡刀，可第一轮没必要。他分析王智和赵灵时，语气太中立，反而像在两边试探，有点像狼在找神位的感觉。  
+
+现在最关键的是张大胆还没发言【脖子微微伸长，望向张大胆的方向，眼神带着期待】，被查杀的人如果是好人，肯定会急着自证，比如盘逻辑、质疑王智的验人动机；要是狼人，可能会慌乱或者转移话题。我建议等张大胆说完再做判断，别急着投票。咱们村民没信息，得抓住每个发言的细节——王智的情绪、赵灵的冷静、钱强的“中立”，还有张大胆的反应，都是线索【深吸一口气，挺直腰板，双手撑在桌上，语气坚定】。狼人再会演，总会有漏洞，咱们慢慢盘，别被带节奏！
+2025-05-28 20:15:58,728 - root - INFO - 张大胆: 【缓缓站起身，双手交叉抱胸，目光深沉地环视众人】各位，我仔细听了大家的发言，有些想法想分享一下。【右手无意识地摩挲着下巴，眉头微皱】首先说说王智，他确实很善于观察，【突然停顿，若有所思地低头】但这种谨慎的态度反而让我觉得是好人应有的表现。【突然转向钱强，眼神锐利】倒是钱强一直在活跃气氛，【左手轻轻敲击桌面】这种过度热情的表现让我有点在意。【突然提高音量】至于孙一，【右手食指轻轻点着太阳穴】总是附和别人的观点，这种随波逐流的行为反而更可疑。【坐回椅子上，双手交叉】我觉得我们应该多关注那些表现反常的人，而不是针对认真分析局势的玩家。【眼神突然变得坚定】毕竟，狼人最喜欢藏在看似无害的表象之下。【突然压低声音】赵灵虽然话不多，但每次发言都很精准，这种冷静的分析能力值得信任。【环视众人，语气变得严肃】我建议今晚重点关注那些刻意表现的人，而不是那些认真分析局势的玩家。
+2025-05-28 20:15:58,728 - root - INFO - 张大胆: 【缓缓站起身，双手交叉抱胸，目光深沉地环视众人】各位，我仔细听了大家的发言，有些想法想分享一下。【右手无意识地摩挲着下巴，眉头微皱】首先说说王智，他确实很善于观察，【突然停顿，若有所思地低头】但这种谨慎的态度反而让我觉得是好人应有的表现。【突然转向钱强，眼神锐利】倒是钱强一直在活跃气氛，【左手轻轻敲击桌面】这种过度热情的表现让我有点在意。【突然提高音量】至于孙一，【右手食指轻轻点着太阳穴】总是附和别人的观点，这种随波逐流的行为反而更可疑。【坐回椅子上，双手交叉】我觉得我们应该多关注那些表现反常的人，而不是针对认真分析局势的玩家。【眼神突然变得坚定】毕竟，狼人最喜欢藏在看似无害的表象之下。【突然压低声音】赵灵虽然话不多，但每次发言都很精准，这种冷静的分析能力值得信任。【环视众人，语气变得严肃】我建议今晚重点关注那些刻意表现的人，而不是那些认真分析局势的玩家。
+2025-05-28 20:15:58,729 - root - INFO - 李勇: 【双手交叉抵在下巴上，眉头紧锁】刚才听了大家的发言，我觉得局势确实很微妙。【身体微微前倾，目光在众人之间游移】王智的表现确实引人注目，【手指无意识地敲击桌面】他那种观察方式让我也觉得不太舒服。【突然转头看向赵灵】不过赵灵全程心不在焉的样子，【歪着头思考】在这种紧张的氛围下反而显得有点刻意。【深吸一口气，坐直身体】
+
+【右手食指轻轻点着太阳穴】张大胆的发言虽然直接，【眼神突然变得锐利】但正是这种坦率让我觉得比较可信。【突然拍了下桌子】现在最重要的是，【压低声音】我们得小心那些试图带节奏的人。【环视全场，目光在每个玩家脸上停留片刻】
+
+【放松地靠在椅背上，但手指仍在紧张地敲击扶手】第一晚信息太少，【突然坐直身体】我觉得与其贸然下结论，【双手摊开】不如多观察一下。【眼神变得深邃】特别是那些表现过于冷静的人，【舔了舔嘴唇】在这种时候反而更值得警惕。【握紧拳头又松开】
+
+【站起身来回踱步】我建议今晚大家先保持冷静，【突然停下脚步】明天有了更多线索再判断。【双手撑在桌面上】毕竟，【目光锐利地扫过众人】狼人最希望看到的就是我们自乱阵脚。【缓缓坐下，但身体依然紧绷】
+2025-05-28 20:15:58,729 - root - INFO - 李勇: 【双手交叉抵在下巴上，眉头紧锁】刚才听了大家的发言，我觉得局势确实很微妙。【身体微微前倾，目光在众人之间游移】王智的表现确实引人注目，【手指无意识地敲击桌面】他那种观察方式让我也觉得不太舒服。【突然转头看向赵灵】不过赵灵全程心不在焉的样子，【歪着头思考】在这种紧张的氛围下反而显得有点刻意。【深吸一口气，坐直身体】
+
+【右手食指轻轻点着太阳穴】张大胆的发言虽然直接，【眼神突然变得锐利】但正是这种坦率让我觉得比较可信。【突然拍了下桌子】现在最重要的是，【压低声音】我们得小心那些试图带节奏的人。【环视全场，目光在每个玩家脸上停留片刻】
+
+【放松地靠在椅背上，但手指仍在紧张地敲击扶手】第一晚信息太少，【突然坐直身体】我觉得与其贸然下结论，【双手摊开】不如多观察一下。【眼神变得深邃】特别是那些表现过于冷静的人，【舔了舔嘴唇】在这种时候反而更值得警惕。【握紧拳头又松开】
+
+【站起身来回踱步】我建议今晚大家先保持冷静，【突然停下脚步】明天有了更多线索再判断。【双手撑在桌面上】毕竟，【目光锐利地扫过众人】狼人最希望看到的就是我们自乱阵脚。【缓缓坐下，但身体依然紧绷】
+2025-05-28 20:15:58,732 - root - INFO - 王智: 【双手猛地一拍桌子，站起身来，眼睛瞪得滚圆，愤怒地看向赵灵】赵灵，我作为真正的预言家，查验出张大胆是狼人，你却无端质疑我。你说我发言激动，可第一回合就查出狼人，换做谁能不激动？你身为女巫，如此冷静地质疑我，还刻意引导大家也怀疑我，实在可疑。【转身面向钱强，手指指向赵灵】钱强你也说赵灵冷静得过分，这难道还不能说明问题吗？我觉得赵灵极有可能是狼人，想扰乱好人阵营。目前局势虽然严峻，但只要大家相信我这个预言家，先把张大胆投出去，再揪出赵灵，我们好人阵营就有很大胜算。大家不要被狼人迷惑，一定要相信我，跟紧我的判断【双手用力挥舞，眼神坚定地扫视众人】。 
+2025-05-28 20:15:58,732 - root - INFO - 王智: 【双手猛地一拍桌子，站起身来，眼睛瞪得滚圆，愤怒地看向赵灵】赵灵，我作为真正的预言家，查验出张大胆是狼人，你却无端质疑我。你说我发言激动，可第一回合就查出狼人，换做谁能不激动？你身为女巫，如此冷静地质疑我，还刻意引导大家也怀疑我，实在可疑。【转身面向钱强，手指指向赵灵】钱强你也说赵灵冷静得过分，这难道还不能说明问题吗？我觉得赵灵极有可能是狼人，想扰乱好人阵营。目前局势虽然严峻，但只要大家相信我这个预言家，先把张大胆投出去，再揪出赵灵，我们好人阵营就有很大胜算。大家不要被狼人迷惑，一定要相信我，跟紧我的判断【双手用力挥舞，眼神坚定地扫视众人】。 
+2025-05-28 20:15:58,733 - root - INFO - 赵灵: 【缓缓站起身，手指轻轻敲击着桌面，眼神锐利地扫视全场】各位，局势已经逐渐明朗。王智的反应太过激烈了【嘴角微微上扬，露出若有所思的笑容】。真正的预言家在被质疑时，应该用逻辑和证据来证明自己，而不是用情绪化的发言来施压【手指轻轻摩挲着药瓶，目光在王智和钱强之间游移】。
+
+【双手撑在桌面上，身体微微前倾】钱强的发言也很耐人寻味。他看似中立，却在暗示我过于冷静可能是狼人【眉头微蹙，眼神变得深邃】。这种两头讨好的发言方式，很像是狼人在搅混水【右手无意识地转动着药瓶，发出轻微的碰撞声】。
+
+【直起身子，环视众人】我注意到张大胆至今没有为自己辩解，这很反常【手指轻点下巴，陷入思考】。如果他是好人，被冤枉时应该会据理力争。而王智和钱强一唱一和的表现，更像是狼人在配合演戏【眼神突然变得锐利】。
+
+【将药瓶郑重地放在桌上】作为女巫，我建议先观察一轮投票情况【手指轻轻敲击药瓶，发出清脆的声响】。王智急于推动投票的行为很可疑，真正的预言家会给被查杀者辩解的机会【目光坚定地看向每个人】。我保留使用毒药的权利，但会在关键时刻出手【双手交叉抱胸，露出意味深长的微笑】。
+
+【声音压低】记住，狼人最擅长制造混乱。我们要保持冷静，从细节中找出破绽【指尖有节奏地敲击桌面】。我建议重点关注王智、钱强和张大胆的后续表现【眼神中闪过一丝警觉】。
+2025-05-28 20:15:58,733 - root - INFO - 赵灵: 【缓缓站起身，手指轻轻敲击着桌面，眼神锐利地扫视全场】各位，局势已经逐渐明朗。王智的反应太过激烈了【嘴角微微上扬，露出若有所思的笑容】。真正的预言家在被质疑时，应该用逻辑和证据来证明自己，而不是用情绪化的发言来施压【手指轻轻摩挲着药瓶，目光在王智和钱强之间游移】。
+
+【双手撑在桌面上，身体微微前倾】钱强的发言也很耐人寻味。他看似中立，却在暗示我过于冷静可能是狼人【眉头微蹙，眼神变得深邃】。这种两头讨好的发言方式，很像是狼人在搅混水【右手无意识地转动着药瓶，发出轻微的碰撞声】。
+
+【直起身子，环视众人】我注意到张大胆至今没有为自己辩解，这很反常【手指轻点下巴，陷入思考】。如果他是好人，被冤枉时应该会据理力争。而王智和钱强一唱一和的表现，更像是狼人在配合演戏【眼神突然变得锐利】。
+
+【将药瓶郑重地放在桌上】作为女巫，我建议先观察一轮投票情况【手指轻轻敲击药瓶，发出清脆的声响】。王智急于推动投票的行为很可疑，真正的预言家会给被查杀者辩解的机会【目光坚定地看向每个人】。我保留使用毒药的权利，但会在关键时刻出手【双手交叉抱胸，露出意味深长的微笑】。
+
+【声音压低】记住，狼人最擅长制造混乱。我们要保持冷静，从细节中找出破绽【指尖有节奏地敲击桌面】。我建议重点关注王智、钱强和张大胆的后续表现【眼神中闪过一丝警觉】。
+2025-05-28 20:15:58,738 - root - INFO - 钱强: 我还是觉得局势相当复杂啊【眉头紧蹙，缓缓摇了摇头，目光在众人脸上一一扫过】。王智发言激动，以预言家身份查杀张大胆，虽说首轮验出狼人可能激动，但确实表现得有些用力过猛，还急于推动把张大胆投出去，很可疑【双手抱胸，眼神中透露出怀疑】。赵灵呢，作为女巫质疑王智，看似冷静理性分析，却又把矛头指向我，说我两头讨好搅混水，这有点刻意了【摩挲着下巴，轻轻叹了口气】。而张大胆一直不辩解，也很奇怪，要么他真的是狼，不知如何狡辩，要么就是被吓得不知所措。目前看来，王智和赵灵都不能完全信任，张大胆的沉默也给局势蒙上一层迷雾【眼神凝重，手指无意识地在桌上轻敲】。我们好人阵营得更加谨慎，从后续大家的发言和投票中仔细分析，绝不能轻易被狼人牵着鼻子走，我作为猎人，会时刻握紧猎枪，一旦发现狼人，定让他无处遁形【眼神坚定，用力地拍了下桌子】。 
+2025-05-28 20:15:58,738 - root - INFO - 钱强: 我还是觉得局势相当复杂啊【眉头紧蹙，缓缓摇了摇头，目光在众人脸上一一扫过】。王智发言激动，以预言家身份查杀张大胆，虽说首轮验出狼人可能激动，但确实表现得有些用力过猛，还急于推动把张大胆投出去，很可疑【双手抱胸，眼神中透露出怀疑】。赵灵呢，作为女巫质疑王智，看似冷静理性分析，却又把矛头指向我，说我两头讨好搅混水，这有点刻意了【摩挲着下巴，轻轻叹了口气】。而张大胆一直不辩解，也很奇怪，要么他真的是狼，不知如何狡辩，要么就是被吓得不知所措。目前看来，王智和赵灵都不能完全信任，张大胆的沉默也给局势蒙上一层迷雾【眼神凝重，手指无意识地在桌上轻敲】。我们好人阵营得更加谨慎，从后续大家的发言和投票中仔细分析，绝不能轻易被狼人牵着鼻子走，我作为猎人，会时刻握紧猎枪，一旦发现狼人，定让他无处遁形【眼神坚定，用力地拍了下桌子】。 
+2025-05-28 20:15:58,740 - root - INFO - 孙一: 【缓缓站起身，双手撑在桌面上，目光凝重地环视众人】各位，听完大家的发言，我觉得局势确实扑朔迷离【手指无意识地敲击着桌面，眉头紧锁】。王智自称预言家查杀了张大胆，但他的表现确实有些反常【托着下巴沉思】。通常预言家第一轮会更谨慎，而他却表现得过于激动，甚至有些咄咄逼人【模仿王智拍桌子的动作，摇了摇头】。
+
+【身体微微前倾，眼神在赵灵和钱强之间来回扫视】赵灵作为女巫的质疑很有道理，但她全程都太过冷静了【手指轻轻点着太阳穴】。这种超乎寻常的理性反而让我觉得可疑，就像钱强说的，她会不会是在刻意引导风向？【突然坐直身体，声音提高】而钱强自称猎人，这个身份声明来得太突然了【双手交叉抱胸，露出怀疑的神色】。
+
+【深吸一口气，站起身来踱步】我觉得现在最重要的是让张大胆发言【停下脚步，指向张大胆的座位】。作为被指控的对象，他必须给出合理解释【手指重重敲在桌面上】。同时我建议其他还没发言的玩家都说说看法，特别是李勇和周二，你们一直沉默很可疑【眯起眼睛扫视两人】。
+
+【回到座位，双手交叠放在桌上】作为普通村民，我会继续观察每个人的微表情和小动作【身体微微前倾，目光锐利】。狼人往往会因为紧张而露出破绽，比如不自然的肢体语言或前后矛盾的发言【手指有节奏地敲击桌面】。我暂时不会轻易相信任何人的身份声明，毕竟狼人最擅长的就是伪装【突然拍桌站起】。大家一定要保持警惕，但也不要被情绪左右，我们好人阵营必须团结！【拳头重重砸在掌心】
+2025-05-28 20:15:58,740 - root - INFO - 孙一: 【缓缓站起身，双手撑在桌面上，目光凝重地环视众人】各位，听完大家的发言，我觉得局势确实扑朔迷离【手指无意识地敲击着桌面，眉头紧锁】。王智自称预言家查杀了张大胆，但他的表现确实有些反常【托着下巴沉思】。通常预言家第一轮会更谨慎，而他却表现得过于激动，甚至有些咄咄逼人【模仿王智拍桌子的动作，摇了摇头】。
+
+【身体微微前倾，眼神在赵灵和钱强之间来回扫视】赵灵作为女巫的质疑很有道理，但她全程都太过冷静了【手指轻轻点着太阳穴】。这种超乎寻常的理性反而让我觉得可疑，就像钱强说的，她会不会是在刻意引导风向？【突然坐直身体，声音提高】而钱强自称猎人，这个身份声明来得太突然了【双手交叉抱胸，露出怀疑的神色】。
+
+【深吸一口气，站起身来踱步】我觉得现在最重要的是让张大胆发言【停下脚步，指向张大胆的座位】。作为被指控的对象，他必须给出合理解释【手指重重敲在桌面上】。同时我建议其他还没发言的玩家都说说看法，特别是李勇和周二，你们一直沉默很可疑【眯起眼睛扫视两人】。
+
+【回到座位，双手交叠放在桌上】作为普通村民，我会继续观察每个人的微表情和小动作【身体微微前倾，目光锐利】。狼人往往会因为紧张而露出破绽，比如不自然的肢体语言或前后矛盾的发言【手指有节奏地敲击桌面】。我暂时不会轻易相信任何人的身份声明，毕竟狼人最擅长的就是伪装【突然拍桌站起】。大家一定要保持警惕，但也不要被情绪左右，我们好人阵营必须团结！【拳头重重砸在掌心】
+2025-05-28 20:15:58,745 - root - INFO - 周二: 
+
+【手指轻轻摩挲着面前粗陶茶杯的边缘，目光依次扫过王智、赵灵和钱强，眉心因思考而微微皱起】各位，我这一轮听下来，心里像揣了团乱麻，得慢慢理清楚。先来说王智——你自称预言家查杀张大胆，发言时拍桌子、瞪眼睛，情绪像炸开的炮仗【指尖在杯沿停顿，转头看向王智，眼神里带着审视】。可预言家报验人信息本是职责，但“激动”这事儿得分两面看：真预言家急着带好人节奏，怕被狼人抢警徽，确实可能急切；可狼人装预言家时，也可能故意用夸张情绪掩盖心虚。你被赵灵质疑后，没再补逻辑，反而更激动地骂她是狼，这就让人犯嘀咕了【拇指抵着下巴摩挲，嘴角扯出一丝若有若无的苦笑】——真预言家该用“我昨晚验人”的细节自证，而不是靠“你质疑我就是狼”的强盗逻辑吧？  
+
+再看赵灵【转回头看向赵灵，手指无意识地卷着衣角】。你作为女巫，质疑预言家身份是本分，可你说“真正预言家会更沉稳”时，眼神太冷静了，像在念剧本【忽然坐直身子，指尖轻点桌面】。女巫第一晚该知道刀口，若王智是狼，你早该发现他没验人信息；若王智是真，你该配合他推狼。可你到现在都没提“我昨晚救了谁”或者“有没有人吃刀”，这不像女巫该有的信息量——难道...你根本不是女巫？【目光陡然锐利，扫过赵灵放在桌上的药瓶】  
+
+钱强的发言最耐人寻味【挑眉看向钱强，双手抱胸，嘴角扬起一丝若有若无的笑意】。你说“王智和赵灵都可疑”，看似中立，实则两头甩锅。猎人该明确站边，帮好人排狼坑，可你只说“再观察”，像在等风向——狼人最爱这种“不站队、搅浑水”的套路吧？【手指无意识地在桌上敲出轻响，眼神变得严肃】  
+
+最关键的还是张大胆！【突然转身看向张大胆的方向，双手撑在桌上，声音拔高】被预言家查杀到现在都不说话，像块木头似的！你要是好人，早该跳身份反驳王智，或者盘他的狼面；你要是狼...那就是被戳中痛处，不敢狡辩！【喉咙轻咳一声，手指重重叩了下桌面】我建议张大胆立刻发言，说清楚自己昨晚做了什么，凭什么说王智是假预言家——要是支支吾吾，那他狼面至少七成！  
+
+现在局势像团雾，狼人可能藏在王智（假预）、赵灵（假女巫）、钱强（搅混水狼）或者张大胆（被查杀狼）里。我作为普通村民，建议先听张大胆辩解：他要是能有理有据，王智必是狼；他要是哑火，王智可能真预，咱们就推张大胆。至于赵灵和钱强，等张大胆发言后再盘他们的行为漏洞【深吸一口气，双手交叠放在膝头，眼神坚定】。记住，狼人最怕的就是好人团结盘逻辑，咱们别被情绪带偏，慢慢来，总能揪出狼的！【目光扫过全场，唇角扬起一丝自信的笑】
+2025-05-28 20:15:58,745 - root - INFO - 周二: 
+
+【手指轻轻摩挲着面前粗陶茶杯的边缘，目光依次扫过王智、赵灵和钱强，眉心因思考而微微皱起】各位，我这一轮听下来，心里像揣了团乱麻，得慢慢理清楚。先来说王智——你自称预言家查杀张大胆，发言时拍桌子、瞪眼睛，情绪像炸开的炮仗【指尖在杯沿停顿，转头看向王智，眼神里带着审视】。可预言家报验人信息本是职责，但“激动”这事儿得分两面看：真预言家急着带好人节奏，怕被狼人抢警徽，确实可能急切；可狼人装预言家时，也可能故意用夸张情绪掩盖心虚。你被赵灵质疑后，没再补逻辑，反而更激动地骂她是狼，这就让人犯嘀咕了【拇指抵着下巴摩挲，嘴角扯出一丝若有若无的苦笑】——真预言家该用“我昨晚验人”的细节自证，而不是靠“你质疑我就是狼”的强盗逻辑吧？  
+
+再看赵灵【转回头看向赵灵，手指无意识地卷着衣角】。你作为女巫，质疑预言家身份是本分，可你说“真正预言家会更沉稳”时，眼神太冷静了，像在念剧本【忽然坐直身子，指尖轻点桌面】。女巫第一晚该知道刀口，若王智是狼，你早该发现他没验人信息；若王智是真，你该配合他推狼。可你到现在都没提“我昨晚救了谁”或者“有没有人吃刀”，这不像女巫该有的信息量——难道...你根本不是女巫？【目光陡然锐利，扫过赵灵放在桌上的药瓶】  
+
+钱强的发言最耐人寻味【挑眉看向钱强，双手抱胸，嘴角扬起一丝若有若无的笑意】。你说“王智和赵灵都可疑”，看似中立，实则两头甩锅。猎人该明确站边，帮好人排狼坑，可你只说“再观察”，像在等风向——狼人最爱这种“不站队、搅浑水”的套路吧？【手指无意识地在桌上敲出轻响，眼神变得严肃】  
+
+最关键的还是张大胆！【突然转身看向张大胆的方向，双手撑在桌上，声音拔高】被预言家查杀到现在都不说话，像块木头似的！你要是好人，早该跳身份反驳王智，或者盘他的狼面；你要是狼...那就是被戳中痛处，不敢狡辩！【喉咙轻咳一声，手指重重叩了下桌面】我建议张大胆立刻发言，说清楚自己昨晚做了什么，凭什么说王智是假预言家——要是支支吾吾，那他狼面至少七成！  
+
+现在局势像团雾，狼人可能藏在王智（假预）、赵灵（假女巫）、钱强（搅混水狼）或者张大胆（被查杀狼）里。我作为普通村民，建议先听张大胆辩解：他要是能有理有据，王智必是狼；他要是哑火，王智可能真预，咱们就推张大胆。至于赵灵和钱强，等张大胆发言后再盘他们的行为漏洞【深吸一口气，双手交叠放在膝头，眼神坚定】。记住，狼人最怕的就是好人团结盘逻辑，咱们别被情绪带偏，慢慢来，总能揪出狼的！【目光扫过全场，唇角扬起一丝自信的笑】
+2025-05-28 20:15:58,750 - root - INFO - 吴三: 
+
+【手指无意识地摩挲着椅边的木纹，目光从王智脸上缓缓扫过赵灵、钱强，最后落在沉默的张大胆身上，眉头微微拧成小疙瘩】各位，我这普通村民得把心里的疑惑倒一倒。先看王智——他拍着桌子说自己是预言家，查杀张大胆，这气势确实足【指尖轻轻叩了叩桌面，眼神微眯】，可他反复强调“必须信任我”“跟紧我的指引”，像极了狼人在抢主导权。真预言家报验人信息时，更多是陈述事实，哪会用情绪绑架大家？就像刚才他被赵灵质疑时，直接拍桌站起来瞪人，这反应太像被戳穿后的急眼了【身体微微后仰，双手交叠在胸前】。  
+
+再看赵灵【目光转向她桌上的药瓶，手指无意识地比划出拿药瓶的动作】，作为女巫质疑预言家本是职责，但她的冷静太“刻意”了——从摩挲药瓶到敲击桌面，每个动作都像在计算怎么引导大家怀疑王智。她提到“真正预言家应更谨慎”，可第一晚验出狼人，换谁能完全冷静？这种“理中客”的姿态，反而像在给狼人队友打掩护【指尖轻点太阳穴，露出若有所思的神情】。  
+
+钱强说自己是猎人，这就让我更犯嘀咕了【身体前倾，指尖敲了敲钱强的方向】。猎人身份金贵，第一回合跳出来做什么？挡刀？没必要；找狼？更该藏着。他分析王智和赵灵时，左一句“可能”右一句“可疑”，看似中立，实则两头踩——既不得罪王智，又不彻底支持赵灵，这像极了狼人在试探神位、搅混水【眼神突然锐利，手指猛地在桌上划了道线】。  
+
+最关键的是张大胆！被预言家查杀到现在一句话没说【脖子伸长望向张大胆的位置，眼神里带着审视】，好人被冤枉早该急着反驳了，要么盘王智的验人逻辑，要么质疑他的动机；可他倒好，像块石头似的闷着——这是狼人被戳穿后，不知怎么狡辩的沉默吧？  
+
+现在局势明摆着，王智、赵灵、钱强里至少有两狼在演戏，张大胆大概率是王智的狼队友被查杀了【身体坐直，双手撑在桌上，语气逐渐加重】。咱们村民得稳住，别急着跟票！等张大胆开口，看他是真哑还是装哑；再看王智能不能拿出更多验人逻辑，而不是光靠情绪；赵灵要是真女巫，该说说第一晚救没救人——这些细节都能拆穿他们的伪装【深吸一口气，目光扫过每个人，声音坚定】。狼人再会演，也藏不住漏洞，咱们慢慢盘，总能揪出他们！
+2025-05-28 20:15:58,750 - root - INFO - 吴三: 
+
+【手指无意识地摩挲着椅边的木纹，目光从王智脸上缓缓扫过赵灵、钱强，最后落在沉默的张大胆身上，眉头微微拧成小疙瘩】各位，我这普通村民得把心里的疑惑倒一倒。先看王智——他拍着桌子说自己是预言家，查杀张大胆，这气势确实足【指尖轻轻叩了叩桌面，眼神微眯】，可他反复强调“必须信任我”“跟紧我的指引”，像极了狼人在抢主导权。真预言家报验人信息时，更多是陈述事实，哪会用情绪绑架大家？就像刚才他被赵灵质疑时，直接拍桌站起来瞪人，这反应太像被戳穿后的急眼了【身体微微后仰，双手交叠在胸前】。  
+
+再看赵灵【目光转向她桌上的药瓶，手指无意识地比划出拿药瓶的动作】，作为女巫质疑预言家本是职责，但她的冷静太“刻意”了——从摩挲药瓶到敲击桌面，每个动作都像在计算怎么引导大家怀疑王智。她提到“真正预言家应更谨慎”，可第一晚验出狼人，换谁能完全冷静？这种“理中客”的姿态，反而像在给狼人队友打掩护【指尖轻点太阳穴，露出若有所思的神情】。  
+
+钱强说自己是猎人，这就让我更犯嘀咕了【身体前倾，指尖敲了敲钱强的方向】。猎人身份金贵，第一回合跳出来做什么？挡刀？没必要；找狼？更该藏着。他分析王智和赵灵时，左一句“可能”右一句“可疑”，看似中立，实则两头踩——既不得罪王智，又不彻底支持赵灵，这像极了狼人在试探神位、搅混水【眼神突然锐利，手指猛地在桌上划了道线】。  
+
+最关键的是张大胆！被预言家查杀到现在一句话没说【脖子伸长望向张大胆的位置，眼神里带着审视】，好人被冤枉早该急着反驳了，要么盘王智的验人逻辑，要么质疑他的动机；可他倒好，像块石头似的闷着——这是狼人被戳穿后，不知怎么狡辩的沉默吧？  
+
+现在局势明摆着，王智、赵灵、钱强里至少有两狼在演戏，张大胆大概率是王智的狼队友被查杀了【身体坐直，双手撑在桌上，语气逐渐加重】。咱们村民得稳住，别急着跟票！等张大胆开口，看他是真哑还是装哑；再看王智能不能拿出更多验人逻辑，而不是光靠情绪；赵灵要是真女巫，该说说第一晚救没救人——这些细节都能拆穿他们的伪装【深吸一口气，目光扫过每个人，声音坚定】。狼人再会演，也藏不住漏洞，咱们慢慢盘，总能揪出他们！
+2025-05-28 20:16:05,582 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:05,582 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:05,584 - root - INFO - 投票记录: player1 -> player5 (正确)
+2025-05-28 20:16:05,584 - root - INFO - 投票记录: player1 -> player5 (正确)
+2025-05-28 20:16:12,838 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:12,838 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:12,843 - root - INFO - 投票记录: player2 -> player3 (正确)
+2025-05-28 20:16:12,843 - root - INFO - 投票记录: player2 -> player3 (正确)
+2025-05-28 20:16:17,216 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:17,216 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:17,220 - root - INFO - 投票记录: player3 -> player1 (正确)
+2025-05-28 20:16:17,220 - root - INFO - 投票记录: player3 -> player1 (正确)
+2025-05-28 20:16:24,412 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:24,412 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:24,418 - root - INFO - 投票记录: player4 -> player3 (错误)
+2025-05-28 20:16:24,418 - root - INFO - 投票记录: player4 -> player3 (错误)
+2025-05-28 20:16:29,624 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:29,624 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:29,630 - root - INFO - 投票记录: player5 -> player1 (正确)
+2025-05-28 20:16:29,630 - root - INFO - 投票记录: player5 -> player1 (正确)
+2025-05-28 20:16:36,437 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:36,437 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:16:36,441 - root - INFO - 投票记录: player6 -> player3 (错误)
+2025-05-28 20:16:36,441 - root - INFO - 投票记录: player6 -> player3 (错误)
+2025-05-28 20:16:51,730 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:16:51,730 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:16:51,733 - openai._base_client - INFO - Retrying request to /chat/completions in 0.428124 seconds
+2025-05-28 20:16:51,733 - openai._base_client - INFO - Retrying request to /chat/completions in 0.428124 seconds
+2025-05-28 20:16:52,208 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:16:52,208 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:16:52,210 - openai._base_client - INFO - Retrying request to /chat/completions in 0.878181 seconds
+2025-05-28 20:16:52,210 - openai._base_client - INFO - Retrying request to /chat/completions in 0.878181 seconds
+2025-05-28 20:17:09,718 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:09,718 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:09,724 - root - INFO - 投票记录: player7 -> player1 (正确)
+2025-05-28 20:17:09,724 - root - INFO - 投票记录: player7 -> player1 (正确)
+2025-05-28 20:17:31,218 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:31,218 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:31,224 - root - INFO - 投票记录: player8 -> player1 (正确)
+2025-05-28 20:17:31,224 - root - INFO - 投票记录: player8 -> player1 (正确)
+2025-05-28 20:17:31,742 - root - INFO - 
+=== 第 1 回合投票结果 ===
+2025-05-28 20:17:31,742 - root - INFO - 
+=== 第 1 回合投票结果 ===
+2025-05-28 20:17:31,743 - root - INFO - 得票情况：
+2025-05-28 20:17:31,743 - root - INFO - 得票情况：
+2025-05-28 20:17:31,744 - root - INFO - - 钱强: 1 票
+2025-05-28 20:17:31,744 - root - INFO - - 钱强: 1 票
+2025-05-28 20:17:31,744 - root - INFO -   投票者: 张大胆
+2025-05-28 20:17:31,744 - root - INFO -   投票者: 张大胆
+2025-05-28 20:17:31,745 - root - INFO - - 王智: 3 票
+2025-05-28 20:17:31,745 - root - INFO - - 王智: 3 票
+2025-05-28 20:17:31,746 - root - INFO -   投票者: 李勇, 赵灵, 孙一
+2025-05-28 20:17:31,746 - root - INFO -   投票者: 李勇, 赵灵, 孙一
+2025-05-28 20:17:31,747 - root - INFO - - 张大胆: 4 票
+2025-05-28 20:17:31,747 - root - INFO - - 张大胆: 4 票
+2025-05-28 20:17:31,748 - root - INFO -   投票者: 王智, 钱强, 周二, 吴三
+2025-05-28 20:17:31,748 - root - INFO -   投票者: 王智, 钱强, 周二, 吴三
+2025-05-28 20:17:31,748 - root - INFO - 
+投票最高的是 张大胆，得到 4 票
+2025-05-28 20:17:31,748 - root - INFO - 
+投票最高的是 张大胆，得到 4 票
+2025-05-28 20:17:40,300 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:40,300 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:57,896 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:17:57,896 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:18:02,176 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:18:02,176 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:18:02,179 - game.roles - INFO - 预言家查验了玩家 player2，结果是狼人
+2025-05-28 20:18:02,179 - game.roles - INFO - 预言家查验了玩家 player2，结果是狼人
+2025-05-28 20:18:02,181 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:18:02,181 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:18:11,247 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:18:11,247 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:18:31,025 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:18:31,025 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:18:31,027 - openai._base_client - INFO - Retrying request to /chat/completions in 0.438167 seconds
+2025-05-28 20:18:31,027 - openai._base_client - INFO - Retrying request to /chat/completions in 0.438167 seconds
+2025-05-28 20:18:31,516 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:18:31,516 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2025-05-28 20:18:31,517 - openai._base_client - INFO - Retrying request to /chat/completions in 0.911786 seconds
+2025-05-28 20:18:31,517 - openai._base_client - INFO - Retrying request to /chat/completions in 0.911786 seconds
+2025-05-28 20:18:43,438 - __main__ - INFO - 游戏在第 1 轮被用户中断
+2025-05-28 20:18:43,438 - __main__ - INFO - 游戏在第 1 轮被用户中断
+2025-05-28 20:18:43,441 - __main__ - ERROR - 游戏运行出错: 'export_format'
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 495, in main
+    game.run_game()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 541, in discussion_phase
+    result = agent.discuss(self.game_state)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 346, in discuss
+    response = self.ask_ai(prompt, self._get_werewolf_discussion_prompt())
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 96, in ask_ai
+    response = self.client.chat.completions.create(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 969, in request
+    response = self._client.send(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http_proxy.py", line 343, in handle_request
+    return self._connection.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1260, in recv
+    return self.read(buflen)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1135, in read
+    return self._sslobj.read(len)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 512, in main
+    export_analysis(statistics, ai_config, args.export_path)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 206, in export_analysis
+    if "json" in config["evaluation_settings"]["export_format"]:
+KeyError: 'export_format'
+2025-05-28 20:18:43,441 - __main__ - ERROR - 游戏运行出错: 'export_format'
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 495, in main
+    game.run_game()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 541, in discussion_phase
+    result = agent.discuss(self.game_state)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 346, in discuss
+    response = self.ask_ai(prompt, self._get_werewolf_discussion_prompt())
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 96, in ask_ai
+    response = self.client.chat.completions.create(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 969, in request
+    response = self._client.send(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http_proxy.py", line 343, in handle_request
+    return self._connection.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1260, in recv
+    return self.read(buflen)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1135, in read
+    return self._sslobj.read(len)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 512, in main
+    export_analysis(statistics, ai_config, args.export_path)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 206, in export_analysis
+    if "json" in config["evaluation_settings"]["export_format"]:
+KeyError: 'export_format'

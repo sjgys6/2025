@@ -1,0 +1,46 @@
+{
+  "completed_rounds": 0,
+  "statistics": {
+    "total_games": 0,
+    "werewolf_wins": 0,
+    "villager_wins": 0,
+    "model_stats": {},
+    "role_stats": {
+      "werewolf": {
+        "wins": 0,
+        "total": 0
+      },
+      "villager": {
+        "wins": 0,
+        "total": 0
+      },
+      "seer": {
+        "wins": 0,
+        "total": 0
+      },
+      "witch": {
+        "wins": 0,
+        "total": 0
+      },
+      "guard": {
+        "wins": 0,
+        "total": 0
+      },
+      "hunter": {
+        "wins": 0,
+        "total": 0
+      }
+    },
+    "metrics": {
+      "role_recognition_accuracy": [],
+      "deception_success_rate": [],
+      "voting_accuracy": [],
+      "communication_effectiveness": [],
+      "survival_rate": [],
+      "ability_usage_accuracy": []
+    },
+    "role_assignments": [],
+    "model_performance": {},
+    "game_details": []
+  }
+}

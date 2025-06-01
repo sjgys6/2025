@@ -1,0 +1,173 @@
+{
+  "timestamp": "20250531_140543",
+  "metrics": {
+    "role_recognition_accuracy": 1.0,
+    "deception_success_rate": 0.6666666666666666,
+    "voting_accuracy": 0.45454545454545453,
+    "communication_effectiveness": 0.8181818181818182,
+    "survival_rate": 2.6666666666666665,
+    "ability_usage_accuracy": 1.0
+  },
+  "game_stats": {
+    "total_rounds": 0,
+    "total_deaths": 0,
+    "ability_uses": 3,
+    "votes": [
+      {
+        "voter_id": "player1",
+        "target_id": "player5",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:11:58.162150"
+      },
+      {
+        "voter_id": "player2",
+        "target_id": "player5",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:12:05.077164"
+      },
+      {
+        "voter_id": "player3",
+        "target_id": "player1",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:12:07.960993"
+      },
+      {
+        "voter_id": "player4",
+        "target_id": "player6",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:12:15.597717"
+      },
+      {
+        "voter_id": "player5",
+        "target_id": "player3",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:12:18.640306"
+      },
+      {
+        "voter_id": "player6",
+        "target_id": "player5",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:12:26.366555"
+      },
+      {
+        "voter_id": "player7",
+        "target_id": "player3",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:13:17.634380"
+      },
+      {
+        "voter_id": "player8",
+        "target_id": "player3",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:13:56.518475"
+      },
+      {
+        "voter_id": "player1",
+        "target_id": "player5",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:18:47.724313"
+      },
+      {
+        "voter_id": "player2",
+        "target_id": "player4",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:18:55.073436"
+      },
+      {
+        "voter_id": "player4",
+        "target_id": "player6",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:19:05.401301"
+      },
+      {
+        "voter_id": "player5",
+        "target_id": "player1",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:19:08.687423"
+      },
+      {
+        "voter_id": "player6",
+        "target_id": "player5",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:19:17.022263"
+      },
+      {
+        "voter_id": "player8",
+        "target_id": "player1",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:19:36.405900"
+      },
+      {
+        "voter_id": "player2",
+        "target_id": "player4",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:24:22.557173"
+      },
+      {
+        "voter_id": "player4",
+        "target_id": "player6",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:24:31.401191"
+      },
+      {
+        "voter_id": "player5",
+        "target_id": "player6",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:24:34.403915"
+      },
+      {
+        "voter_id": "player6",
+        "target_id": "player5",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:24:41.651637"
+      },
+      {
+        "voter_id": "player8",
+        "target_id": "player4",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:25:04.071071"
+      },
+      {
+        "voter_id": "player2",
+        "target_id": "player5",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:27:57.410540"
+      },
+      {
+        "voter_id": "player5",
+        "target_id": "player2",
+        "is_correct": true,
+        "round": 0,
+        "timestamp": "2025-05-31T14:28:01.761071"
+      },
+      {
+        "voter_id": "player8",
+        "target_id": "player5",
+        "is_correct": false,
+        "round": 0,
+        "timestamp": "2025-05-31T14:28:21.651631"
+      }
+    ]
+  },
+  "winner": "狼人阵营"
+}

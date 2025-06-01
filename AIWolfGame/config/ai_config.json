@@ -1,0 +1,103 @@
+{
+  "ai_players": {
+    "deepseek-r1": {
+      "description": "DeepSeek R1 模型，适用于基础任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "deepseek-r1-250120",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "deepseek-v3": {
+      "description": "DeepSeek V3 模型，适用于复杂任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "deepseek-v3-250324",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "doubao-1-5-pro": {
+      "description": "Doubao Pro 模型，支持长文本处理",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "doubao-1-5-pro-256k-250115",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "doubao-1-5-thinking": {
+      "description": "Doubao Thinking Pro 模型，支持推理任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "doubao-1-5-thinking-pro-250415",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "gemini-2.5-flash": {
+      "description": "Gemini Flash 模型，适用于快速响应任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "gemini-2.5-flash",
+      "retry_attempts": 3,
+      "timeout": 30,
+      "thinking_params": {
+        "reasoning_effort": "low"
+      }
+    },
+    "gpt-4.1-2025-04-14": {
+      "description": "GPT-4.1 模型，适用于通用任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "gpt-4.1-2025-04-14",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "gpt-4.1-mini-2025-04-14": {
+      "description": "GPT-4.1 Mini 模型，适用于轻量任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key":,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "o4-mini": {
+      "description": "O4 Mini 模型，适用于基础任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "o4-mini-2025-04-16",
+      "retry_attempts": 3,
+      "timeout": 30
+    },
+    "claude-3-7": {
+      "description": "Claude Sonnet 模型，支持高级推理任务",
+      "base_url": "https://api.toiotech.com/v1",
+      "api_key": ,
+      "model": "claude-3-7-sonnet-20250219",
+      "retry_attempts": 3,
+      "timeout": 30,
+      "thinking_params": {
+        "extra_body": {
+          "thinking": {
+            "type": "enabled",
+            "budget_tokens": 20
+          }
+        }
+      }
+    }
+  },
+  "evaluation_settings": {
+    "models_to_evaluate": [
+      "deepseek-r1",
+      "doubao-1-5-pro"
+    ],
+    "evaluation_criteria": {
+      "accuracy": 0.9,
+      "response_time": "fast",
+      "consistency": "high"
+    },
+    "test_cases": [
+      "discussion_phase",
+      "vote_phase",
+      "last_words_phase"
+    ]
+  }
+}

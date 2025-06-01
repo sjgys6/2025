@@ -1,0 +1,77 @@
+2025-05-31 17:07:42,270 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:07:42,270 - root - INFO - 时间戳: 20250531_170742
+2025-05-31 17:07:42,270 - root - INFO - 调试模式: 关闭
+2025-05-31 17:07:42,270 - __main__ - INFO - 正在加载配置文件...
+2025-05-31 17:07:42,271 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-31 17:07:42,273 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:07:42,273 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 17:07:42,273 - root - INFO - 时间戳: 20250531_170742
+2025-05-31 17:07:42,273 - root - INFO - 时间戳: 20250531_170742
+2025-05-31 17:07:42,274 - root - INFO - 调试模式: 关闭
+2025-05-31 17:07:42,274 - root - INFO - 调试模式: 关闭
+2025-05-31 17:07:42,274 - __main__ - INFO - 游戏开始...
+2025-05-31 17:07:42,274 - __main__ - INFO - 游戏开始...
+2025-05-31 17:07:55,773 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:07:55,773 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:06,914 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:06,914 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:17,841 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:17,841 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:20,244 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:20,244 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:20,245 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-31 17:08:20,245 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-31 17:08:20,246 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 17:08:20,246 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-31 17:08:33,438 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:33,438 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:44,627 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:44,627 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:50,602 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:08:50,602 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:04,299 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:04,299 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:12,103 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:12,103 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:27,696 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:09:27,696 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:10:13,939 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:10:13,939 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:10:56,629 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:10:56,629 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:20,387 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:20,387 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:31,571 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:31,571 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:40,497 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:40,497 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:59,452 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:11:59,452 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:12:07,909 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:12:07,909 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:12:24,321 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:12:24,321 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:13:05,271 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:13:05,271 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 17:13:05,272 - __main__ - ERROR - 第 1 轮游戏运行出错: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\Wolftry\main.py", line 496, in main
+    game.run_game()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 602, in discussion_phase
+    print(speech)
+OSError: [Errno 22] Invalid argument
+2025-05-31 17:13:05,272 - __main__ - ERROR - 第 1 轮游戏运行出错: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\Wolftry\main.py", line 496, in main
+    game.run_game()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 602, in discussion_phase
+    print(speech)
+OSError: [Errno 22] Invalid argument

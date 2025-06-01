@@ -1,0 +1,33 @@
+2025-05-31 16:50:05,113 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:50:05,114 - root - INFO - 时间戳: 20250531_165005
+2025-05-31 16:50:05,114 - root - INFO - 调试模式: 关闭
+2025-05-31 16:50:05,114 - __main__ - INFO - 正在加载配置文件...
+2025-05-31 16:50:05,116 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-31 16:50:05,118 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:50:05,118 - root - INFO - === 游戏日志系统启动 ===
+2025-05-31 16:50:05,118 - root - INFO - 时间戳: 20250531_165005
+2025-05-31 16:50:05,118 - root - INFO - 时间戳: 20250531_165005
+2025-05-31 16:50:05,119 - root - INFO - 调试模式: 关闭
+2025-05-31 16:50:05,119 - root - INFO - 调试模式: 关闭
+2025-05-31 16:50:05,119 - __main__ - INFO - 游戏开始...
+2025-05-31 16:50:05,119 - __main__ - INFO - 游戏开始...
+2025-05-31 16:50:18,143 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:50:18,143 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-31 16:50:18,164 - __main__ - ERROR - 第 1 轮游戏运行出错: 'player0'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\Wolftry\main.py", line 496, in main
+    game.run_game()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 211, in run_game
+    self.night_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 260, in night_phase
+    print(f"\n{guard.name} 想要保护 {self.players[target_id].name}")
+KeyError: 'player0'
+2025-05-31 16:50:18,164 - __main__ - ERROR - 第 1 轮游戏运行出错: 'player0'
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Downloads\Wolftry\main.py", line 496, in main
+    game.run_game()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 211, in run_game
+    self.night_phase()
+  File "C:\Users\Administrator\Downloads\Wolftry\game\game_controller.py", line 260, in night_phase
+    print(f"\n{guard.name} 想要保护 {self.players[target_id].name}")
+KeyError: 'player0'

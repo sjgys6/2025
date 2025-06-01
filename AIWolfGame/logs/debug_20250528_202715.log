@@ -1,0 +1,165 @@
+2025-05-28 20:27:15,921 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:27:15,922 - root - INFO - 时间戳: 20250528_202715
+2025-05-28 20:27:15,922 - root - INFO - 调试模式: 关闭
+2025-05-28 20:27:15,923 - __main__ - INFO - 正在加载配置文件...
+2025-05-28 20:27:15,924 - __main__ - INFO - 正在初始化第 1 轮游戏...
+2025-05-28 20:27:15,925 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:27:15,925 - root - INFO - === 游戏日志系统启动 ===
+2025-05-28 20:27:15,926 - root - INFO - 时间戳: 20250528_202715
+2025-05-28 20:27:15,926 - root - INFO - 时间戳: 20250528_202715
+2025-05-28 20:27:15,927 - root - INFO - 调试模式: 关闭
+2025-05-28 20:27:15,927 - root - INFO - 调试模式: 关闭
+2025-05-28 20:27:15,930 - __main__ - INFO - 游戏开始...
+2025-05-28 20:27:15,930 - __main__ - INFO - 游戏开始...
+2025-05-28 20:27:31,367 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:31,367 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:40,477 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:40,477 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:46,257 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:46,257 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:50,102 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:50,102 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:27:50,105 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-28 20:27:50,105 - game.roles - INFO - 预言家查验了玩家 player1，结果是狼人
+2025-05-28 20:27:50,106 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:27:50,106 - root - INFO - 能力使用: 玩家player3使用查验 正确
+2025-05-28 20:28:01,868 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:01,868 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:08,089 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:08,089 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:17,191 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:17,191 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:31,040 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:31,040 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:44,050 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:44,050 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:58,761 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:28:58,761 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:29:37,654 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:29:37,654 - httpx - INFO - HTTP Request: POST https://api.toiotech.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-28 20:30:11,926 - __main__ - INFO - 游戏在第 1 轮被用户中断
+2025-05-28 20:30:11,926 - __main__ - INFO - 游戏在第 1 轮被用户中断
+2025-05-28 20:30:11,930 - __main__ - ERROR - 游戏运行出错: 'export_format'
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 496, in main
+    game.run_game()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 541, in discussion_phase
+    result = agent.discuss(self.game_state)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 450, in discuss
+    response = self.ask_ai(prompt, self._get_villager_discussion_prompt())
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 96, in ask_ai
+    response = self.client.chat.completions.create(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 969, in request
+    response = self._client.send(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http_proxy.py", line 343, in handle_request
+    return self._connection.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1260, in recv
+    return self.read(buflen)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1135, in read
+    return self._sslobj.read(len)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 513, in main
+    export_analysis(statistics, ai_config, args.export_path)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 207, in export_analysis
+    if "json" in config["evaluation_settings"]["export_format"]:
+KeyError: 'export_format'
+2025-05-28 20:30:11,930 - __main__ - ERROR - 游戏运行出错: 'export_format'
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 496, in main
+    game.run_game()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 216, in run_game
+    self.day_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 510, in day_phase
+    self.discussion_phase()
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\game_controller.py", line 541, in discussion_phase
+    result = agent.discuss(self.game_state)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 450, in discuss
+    response = self.ask_ai(prompt, self._get_villager_discussion_prompt())
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\game\ai_players.py", line 96, in ask_ai
+    response = self.client.chat.completions.create(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_utils\_utils.py", line 287, in wrapper
+    return func(*args, **kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\resources\chat\completions\completions.py", line 925, in create
+    return self._post(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 1239, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\openai\_base_client.py", line 969, in request
+    response = self._client.send(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http_proxy.py", line 343, in handle_request
+    return self._connection.handle_request(request)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+  File "F:\360Downloads\ara\envs\AIworf\lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1260, in recv
+    return self.read(buflen)
+  File "F:\360Downloads\ara\envs\AIworf\lib\ssl.py", line 1135, in read
+    return self._sslobj.read(len)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 513, in main
+    export_analysis(statistics, ai_config, args.export_path)
+  File "F:\code\vsCode\Spring\boyilun\finalhomework\AIWolfGame\AIWolfGame-main\main.py", line 207, in export_analysis
+    if "json" in config["evaluation_settings"]["export_format"]:
+KeyError: 'export_format'
