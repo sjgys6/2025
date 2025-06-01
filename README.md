@@ -16,7 +16,7 @@
 |------------|--------------------------------------------------------------------------|-----------------------------------|
 | 五子棋     | `python MetaZeta.py`                                                    |                                   |
 | 狼人杀     | `python main.py --rounds 1 --delay 0.5 --export-path ./test_analysis1`  | `--rounds`: 游戏轮数<br>`--delay`: 回合间隔(秒)<br>`--export-path`: 分析报告输出路径 |
-| 交易谈判   | `python main.py`                                                        |                                   |
+| 交易谈判   | `python main.py --rounds 1 --delay 0.5 --export-path ./test_analysis1`                                                        |                                   |
 
 ## 技术基础与创新
 本项目基于以下开源项目进行深度改进：
@@ -24,11 +24,11 @@
 ### 基础框架
 - [AIWolfGame](https://github.com/hikariming/AIWolfGame)  
   ▸ 狼人杀基础逻辑框架  
-  ▸ 改进点：新增谈判模块/优化发言策略生成算法  
+  ▸ 改进点：新增守卫模块/优化发言策略生成算法  
 
 - [AlphaGo-Zero-Gobang](https://github.com/YoujiaZhang/AlphaGo-Zero-Gobang)  
   ▸ 五子棋RL训练架构  
-  ▸ 改进点：引入蒙特卡洛树搜索优化/训练效率提升30%  
+  ▸ 改进点：引入层次化推理框架、外部工具检索、对手建模模块 
 
 ### 新增特性
 - **跨游戏通用策略引擎**  
